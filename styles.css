@@ -103,7 +103,7 @@ tr {
 tr:last-child {
     border-bottom: none; 
 }
-#data{
+.data{
     color: var(--Brown-800);
     font-weight: 300;
 }
